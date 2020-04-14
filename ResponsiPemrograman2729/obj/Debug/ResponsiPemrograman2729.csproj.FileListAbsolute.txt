@@ -1,0 +1,6 @@
+E:\Tugas Perkuliahan\Visual Studi\ResponsiPemrograman2729\ResponsiPemrograman2729\bin\Debug\ResponsiPemrograman2729.exe.config
+E:\Tugas Perkuliahan\Visual Studi\ResponsiPemrograman2729\ResponsiPemrograman2729\bin\Debug\ResponsiPemrograman2729.exe
+E:\Tugas Perkuliahan\Visual Studi\ResponsiPemrograman2729\ResponsiPemrograman2729\bin\Debug\ResponsiPemrograman2729.pdb
+E:\Tugas Perkuliahan\Visual Studi\ResponsiPemrograman2729\ResponsiPemrograman2729\obj\Debug\ResponsiPemrograman2729.csprojAssemblyReference.cache
+E:\Tugas Perkuliahan\Visual Studi\ResponsiPemrograman2729\ResponsiPemrograman2729\obj\Debug\ResponsiPemrograman2729.exe
+E:\Tugas Perkuliahan\Visual Studi\ResponsiPemrograman2729\ResponsiPemrograman2729\obj\Debug\ResponsiPemrograman2729.pdb
